@@ -1,0 +1,53 @@
+[
+  {
+    "category": "Sofa",
+    "items": [
+      {
+        "name": "Modern Leather Sofa",
+        "description": "Sleek leather sofa with clean lines",
+        "price": "$1,200",
+        "image": "https://example.com/modern-sofa.jpg"
+      },
+      {
+        "name": "Velvet Accent Chair",
+        "description": "Plush velvet chair for cozy reading",
+        "price": "$450",
+        "image": "https://example.com/velvet-chair.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Table",
+    "items": [
+      {
+        "name": "Glass Dining Table",
+        "description": "Contemporary glass and metal dining table",
+        "price": "$800",
+        "image": "https://example.com/glass-table.jpg"
+      },
+      {
+        "name": "Wooden Coffee Table",
+        "description": "Rustic wooden coffee table with storage",
+        "price": "$350",
+        "image": "https://example.com/wood-table.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Lighting",
+    "items": [
+      {
+        "name": "Pendant Light",
+        "description": "Industrial style pendant lighting",
+        "price": "$120",
+        "image": "https://example.com/pendant-light.jpg"
+      },
+      {
+        "name": "Floor Lamp",
+        "description": "Modern floor lamp with adjustable height",
+        "price": "$180",
+        "image": "https://example.com/floor-lamp.jpg"
+      }
+    ]
+  }
+]
