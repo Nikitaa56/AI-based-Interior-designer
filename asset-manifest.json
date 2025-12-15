@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AI-based-Interior-designer/static/css/main.905a295f.css",
+    "main.js": "/AI-based-Interior-designer/static/js/main.ee7ea6b7.js",
+    "static/js/453.db785300.chunk.js": "/AI-based-Interior-designer/static/js/453.db785300.chunk.js",
+    "index.html": "/AI-based-Interior-designer/index.html",
+    "main.905a295f.css.map": "/AI-based-Interior-designer/static/css/main.905a295f.css.map",
+    "main.ee7ea6b7.js.map": "/AI-based-Interior-designer/static/js/main.ee7ea6b7.js.map",
+    "453.db785300.chunk.js.map": "/AI-based-Interior-designer/static/js/453.db785300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905a295f.css",
+    "static/js/main.ee7ea6b7.js"
+  ]
+}

@@ -1,0 +1,19 @@
+# Ignore docs
+*.docx
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.Python
+venv/
+env/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
